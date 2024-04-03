@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
-import cv2
-import base64
+
+
 import numpy as np
 from streamlit_extras.buy_me_a_coffee import button
 st.title('Image Insight',)
